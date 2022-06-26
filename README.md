@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeanPafundi
 - 👀 I’m interested in lern to use programing for social sciences. 
-- 🌱 I’m currently learning JavaScrypt, Ruby, Python, R and SQL.
+- 🌱 I’m currently learning C, JavaScrypt, Ruby, Python and R.
 - 💞️ I’m looking to collaborate on proyects seeking to learn insights about political and economical comunication data analysis. 
 - 📫 You can reach me: leandro.pafundi@gmail.com
 
